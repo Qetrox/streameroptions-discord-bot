@@ -1,0 +1,32 @@
+{
+    "en": {
+        "CriticalError":":satellite_orbital: An error occurred while executing this command. Please try again later.",
+        "Title": "Language Changed",
+        "Name": "English",
+        "Message": "The language has been changed to English"
+    },
+    "nl": {
+        "CriticalError":":satellite_orbital: Er is iets fout gegaan tijdens het uitvoeren van dit commando. Probeer het later opnieuw.",
+        "Title": "Taal veranderd",
+        "Name": "Nederlands",
+        "Message": "De taal is veranderd in Nederlands"
+    },
+    "de": {
+        "CriticalError":":satellite_orbital: Ein Fehler ist aufgetreten, während dieser Befehl ausgeführt wurde. Bitte versuche es später noch einmal.",
+        "Title": "Sprache geändert",
+        "Name": "Deutsch",
+        "Message": "Die Sprache wurde in Deutsch geändert"
+    },
+    "fr": {
+        "CriticalError":":satellite_orbital: Une erreur s'est produite lors de l'exécution de cette commande. Veuillez réessayer plus tard.",
+        "Title": "Langue changée",
+        "Name": "Français",
+        "Message": "La langue a été changée en Français"
+    },
+    "es": {
+        "CriticalError":":satellite_orbital: Se produjo un error al ejecutar este comando. Por favor, inténtelo de nuevo más tarde.",
+        "Title": "Idioma cambiado",
+        "Name": "Español",
+        "Message": "El idioma ha sido cambiado a Español"
+    }
+}

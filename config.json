@@ -1,0 +1,9 @@
+{
+    "Token":"DiscordToken",
+    "ClientId":"DiscordClientID",
+
+    "SocketIP":"127.0.0.1",
+    "SocketPort": 8081,
+    "SocketSecret": "EpicSecret",
+    "SocketKey":""
+}

@@ -1,0 +1,37 @@
+{
+    "en":{
+        "CriticalError":":satellite_orbital: An error occurred while executing this command. Please try again later.",
+        "NotFoundError":":satellite_orbital: No watchtime leaderboard found for",
+        "Title":"Watchtime Leaderboard",
+        "User":"User",
+        "Watchtime":"Watchtime"
+    },
+    "nl":{
+        "CriticalError":":satellite_orbital: Er is iets fout gegaan tijdens het uitvoeren van dit commando. Probeer het later opnieuw.",
+        "NotFoundError":":satellite_orbital: Geen kijktijd scorebord gevonden voor",
+        "Title":"Kijktijd Scorebord",
+        "User":"Gebruiker",
+        "Watchtime":"Kijktijd"
+    },
+    "de": {
+        "CriticalError":":satellite_orbital: Ein Fehler ist aufgetreten, während dieser Befehl ausgeführt wurde. Bitte versuche es später noch einmal.",
+        "NotFoundError":":satellite_orbital: Kein Uhrzeit Leaderboard gefunden für",
+        "Title":"Uhrzeit Leaderboard",
+        "User":"Benutzer",
+        "Watchtime":"Uhrzeit"
+    },
+    "fr": {
+        "CriticalError":":satellite_orbital: Une erreur s'est produite lors de l'exécution de cette commande. Veuillez réessayer plus tard.",
+        "NotFoundError":":satellite_orbital: Aucun classement de temps de visionnage trouvé pour",
+        "Title":"Classement de temps de visionnage",
+        "User":"Utilisateur",
+        "Watchtime":"Temps de visionnage"
+    },
+    "es":{
+        "CriticalError":":satellite_orbital: Se produjo un error al ejecutar este comando. Por favor, inténtelo de nuevo más tarde.",
+        "NotFoundError":":satellite_orbital: No se encontró el marcador de tiempo de visualización para",
+        "Title":"Marcador de tiempo de visualización",
+        "User":"Usuario",
+        "Watchtime":"Tiempo de visualización"
+    }
+}
